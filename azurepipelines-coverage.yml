@@ -1,5 +1,4 @@
 coverage:
   status:
     diff:
-      default:
-        target: 90%
+      target: 90%
