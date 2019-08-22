@@ -1,4 +1,5 @@
 coverage:
   status:
+    comments: on
     diff:
-      target: 90%
+      target: 50%
